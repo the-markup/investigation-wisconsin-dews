@@ -1,12 +1,12 @@
-# Data for False Alarm: How Wisconsin Uses Race and Income to Label Students "High Risk"
+# Data for our investigation into Wisconsin's dropout prediction algorithm
 
-This contains the data we obtained through public records requests for the story False Alarm: How Wisconsin Uses Race and Income to Label Students "High Risk”
+This contains the data we obtained through public records requests for the story ["False Alarm: How Wisconsin Uses Race and Income to Label Students 'High Risk'"](https://themarkup.org/TKTKTKT)
 
 Wisconsin’s Department of Public Instruction maintains two predictive early warning systems for students. The Dropout Early Warning System (DEWS) predicts the likelihood that a student will graduate from high school on time. The College and Career Readiness Early Warning System (CCREWS) predicts whether students are ready for the ACT or college.
 
-The “DEWS_outcomes_aggregated” dataset contains aggregate DEWS risk predictions from 2011 through 2021 broken down by academic year, district, grade, and student race.
+The “[DEWS_outcomes_aggregated](dews_outcomes_aggregated.csv)” dataset contains aggregate DEWS risk predictions from 2011 through 2021 broken down by academic year, district, grade, and student race.
 
-The “CCREWS_outcomes_aggregated” dataset contains aggregate risk predictions from 2017 through 2021 broken down by academic year, district, grade, and student race.
+The “[CCREWS_outcomes_aggregated](ccrews_outcomes_aggregated.csv)” dataset contains aggregate risk predictions from 2017 through 2021 broken down by academic year, district, grade, and student race.
 
 Both datasets were provided by the Wisconsin Department of Public Instruction in response to a public records request. DPI redacted the aggregate student risk counts in some instances to preserve student privacy.
 
