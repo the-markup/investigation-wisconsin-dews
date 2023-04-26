@@ -1,6 +1,6 @@
-# Data for our investigation into Wisconsin's dropout prediction algorithm
+# Data for our investigation into Wisconsin's dropout prediction algorithms
 
-This contains the data we obtained through public records requests for the story ["False Alarm: How Wisconsin Uses Race and Income to Label Students 'High Risk'"](https://themarkup.org/TKTKTKT)
+This contains the data we obtained through public records requests for the story ["False Alarm: How Wisconsin Uses Race and Income to Label Students 'High Risk'"](https://themarkup.org/machine-learning/2023/04/27/false-alarm-how-wisconsin-uses-race-and-income-to-label-students-high-risk)
 
 Wisconsin’s Department of Public Instruction maintains two predictive early warning systems for students. The Dropout Early Warning System (DEWS) predicts the likelihood that a student will graduate from high school on time. The College and Career Readiness Early Warning System (CCREWS) predicts whether students are ready for the ACT or college.
 
